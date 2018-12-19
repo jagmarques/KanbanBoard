@@ -1,0 +1,27 @@
+Priority: 3
+ID: 10
+Content: KanbanBoard1
+Deadline date: 12/7/2018
+Creation date: 30/5/2018
+Conclusion date: 0/0/0
+Step: 2
+Responsible: 3
+
+Priority: 2
+ID: 4
+Content: KanbanBoard2
+Deadline date: 0/0/0
+Creation date: 27/5/2018
+Conclusion date: 0/0/0
+Step: 1
+Responsible: 0
+
+Priority: 10
+ID: 11
+Content: KanbanBoard3
+Deadline date: 30/5/2018
+Creation date: 26/7/2018
+Conclusion date: 1/6/2018
+Step: 3
+Responsible: 5
+
